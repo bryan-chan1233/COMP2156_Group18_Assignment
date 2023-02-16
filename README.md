@@ -1,6 +1,9 @@
-Bryan Chan #101395638
-My group members consist of
-Renan Ribeiro Rodrigues
-Nadzhibullokhkhodzha Sharofidinov
-Ryan Shivdarsan
-Timmy Ogunbiyi
+##### GROUP 18 #####
+
+Our group consists of five members. 
+
+Bryan Chan(LEADER-101395638),
+Renan Ribeiro Rodrigues (101364590),
+Nadzhibullokhkhodzha Sharofidinov(    ),
+Ryan Shivdarsan(    ) and 
+Timmy Ogunbiyi(   ).
