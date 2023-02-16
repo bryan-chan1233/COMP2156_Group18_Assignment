@@ -1,4 +1,0 @@
-COMP2156 is a course taught by our professor Pritesh Patel. We have two classes, one for lectures and the other one for labs.
-
-DevOps is important because it's a software development and operations approach that enables faster 
-development of new products and easier maintenance of existing deployments. 
