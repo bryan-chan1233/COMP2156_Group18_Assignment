@@ -1,4 +1,4 @@
-##### GROUP 18 #####
+##### GROUP-18 #####
 
 Our group consists of five members. 
 
