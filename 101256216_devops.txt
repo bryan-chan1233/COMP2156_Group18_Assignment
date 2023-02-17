@@ -1,0 +1,4 @@
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+First Way: Work always flows in one direction – downstream.
+Second Way: Create, shorten and amplify feedback loops.
+Third Way: Continued experimentation, in order to learn from mistakes, and achieve mastery.
