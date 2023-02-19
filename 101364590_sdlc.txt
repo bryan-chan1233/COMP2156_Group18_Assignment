@@ -1,0 +1,4 @@
+It is critically important because it helps increase the delivery velocity systematically.
+Teams can easily target where they are having issues and fix them as soon as possible before 
+the application can be launched. It also makes the communication within the team better by sharing
+where exactly each member will be working. 
