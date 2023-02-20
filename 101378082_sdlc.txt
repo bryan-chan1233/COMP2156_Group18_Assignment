@@ -1,2 +1,2 @@
 The course is designed to provide students with an understanding of DevOps principles and practices, and to 
-teach them how to implement and manage DevOps workflows in a software development environment. oops
+teach them how to implement and manage DevOps workflows in a software development environment. Thank God
