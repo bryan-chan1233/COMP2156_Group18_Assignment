@@ -1,4 +1,4 @@
 The course is designed to provide students with an understanding of DevOps principles and 
 practices, and to teach them how to implement and manage DevOps workflows in a software development environment.
 
-The proffessor for the course is Pritesh Patel. my teacher
+And the proffessor for the course is Pritesh Patel.
